@@ -24,7 +24,7 @@ I used to be interested in game development and created a platformer during the 
 function multiply(a, b){
   return a * b
 }
-multiply(5, 8)
+multiply(5, 17)
 ```
 =============================================================================================================================================
 # Education
